@@ -1,0 +1,2 @@
+# ejercicioMetodosPotenciaDeUnNumero
+Created with CodeSandbox
